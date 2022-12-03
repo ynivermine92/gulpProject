@@ -1,0 +1,16 @@
+$accent : #fe3e57;    
+
+%quicksand-400{
+    font-family: 'Quicksa-Regular', sans-serif;
+    font-weight: 400;
+}
+
+//скрывает input за лементом
+/* %checkbox-hidden,
+%radio-hidden{
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    position: absolute ;
+} */

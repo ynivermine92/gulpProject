@@ -1,0 +1,12 @@
+tams   https://codepen.io/SitePoint/pen/NWxKgxN?editors=1010
+slider https://kenwheeler.github.io/slick/
+popap  https://fancyapps.com/fancybox/3/    (mp4)
+rateyo(stars) https://rateyo.fundoocode.ninja/   version("^2.3.2")
+ragne.slider  http://ionden.com/a/plugins/ion.rangeSlider/
+Form Styler(selecshen) https://www.npmjs.com/package/jquery-form-styler
+       https://dimox.name/jquery-form-styler/
+icons https://fontawesome.com/search?q=star&o=r
+
+img  размер менять https://www.iloveimg.com/ru 
+карты потключать https://developers.google.com/maps/documentation/javascript/examples/map-simple
+карты  кастамайзер  https://mapstyle.withgoogle.com/
